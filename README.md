@@ -1,3 +1,3 @@
 # crunchyroll-checker-v1
-![Presentation](https://github.com/johanmess/crunchyroll-checker-v1/assets/137084969/d6a2d45e-fda8-4927-906a-de9d98178b62)
+![Portada](https://github.com/johanmess/crunchyroll-checker-v1/assets/137084969/de12e1a6-b22a-49bd-ab9c-1648d28e904e)
 A crunchyroll basic checker without threads or proxies (v1) 
